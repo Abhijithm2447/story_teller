@@ -1,0 +1,7 @@
+beautifulsoup4==4.7.1
+gTTS==2.2.1
+nltk==3.5
+opencv-contrib-python==4.4.0.42
+opencv-python==4.2.0.34
+python-vlc==3.0.11115
+yake==0.3.7
